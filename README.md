@@ -10,6 +10,8 @@ It has been a interesting challenge and a good way of getting into the deepend a
 
 During this course I've made the following project:
 
-- [ShazTXT](https://www.minusinfinite.id.au/shaztxt) - Music search via Genus API with links to Youtube content - <https://github.com/minusInfinite/project-1>
-- [Weather Dashboard](https://minusinfinite.github.io/weather-dashboard/) - A neat dashboard to display weather data from OpenWeatherMap.org - <https://github.com/minusInfinite/weather-dashboard>
-- [Code Quiz](https://minusinfinite.github.io/js-coding-quiz) - A simple JS application that builds a Javascript quiz - <https://github.com/minusInfinite/js-coding-quiz>
+-   [NodeBBS](https://nodebbs-demo.herokuapp.com/) - A concept for a classic Buliten Board forum in Node/Express/Handlebars - <https://github.com/minusInfinite/nodebbs>
+-   [Devblog](https://boot-dev-blog.herokuapp.com/) - A Node/Express/Handlebars blogging Web App - <https://github.com/minusInfinite/devblog>
+-   [ShazTXT](https://www.minusinfinite.id.au/shaztxt) - Music search via Genus API with links to Youtube content - <https://github.com/minusInfinite/project-1>
+-   [Weather Dashboard](https://minusinfinite.github.io/weather-dashboard/) - A neat dashboard to display weather data from OpenWeatherMap.org - <https://github.com/minusInfinite/weather-dashboard>
+-   [Code Quiz](https://minusinfinite.github.io/js-coding-quiz) - A simple JS application that builds a Javascript quiz - <https://github.com/minusInfinite/js-coding-quiz>
